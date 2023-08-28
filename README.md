@@ -19,4 +19,4 @@
 - [Rendez-vous resources optech](https://bitcoinops.org/en/topics/rendez-vous-routing/)
 
 ### Trampoline payments 
-- [Trampoline resources from optech)(https://bitcoinops.org/en/topics/trampoline-payments/)
+- [Trampoline resources from optech](https://bitcoinops.org/en/topics/trampoline-payments/)
