@@ -1,4 +1,4 @@
-# lightning-routing-research
+# Lightning network routing research
 
 ### LightPIR
 - [LightPIR paper](https://arxiv.org/abs/2104.04293)
