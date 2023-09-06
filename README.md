@@ -9,7 +9,7 @@
 - [SilentWhispers summary](https://s-tikhomirov.github.io/silentwhispers/)
 
 ### SpeedyMurmurs 
-- [SpeedyMurmurs paper]([https://s-tikhomirov.github.io/speedymurmurs/](https://arxiv.org/abs/1709.05748))
+- [SpeedyMurmurs paper](https://arxiv.org/abs/1709.05748)
 - [SpeedyMurmurs summary](https://s-tikhomirov.github.io/speedymurmurs/)
 
 ### Flare
